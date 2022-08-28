@@ -1,0 +1,15 @@
+.circle{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color: rgb(87, 87, 228);
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.asset{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

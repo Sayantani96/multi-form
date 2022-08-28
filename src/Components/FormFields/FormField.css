@@ -1,0 +1,23 @@
+
+.input-field{
+    padding:10px 8px 8px 15px;
+    border:1px solid gainsboro;
+    border-radius: 7px;
+    width:90%;
+    font-style: inherit;
+}
+
+label{
+    font-weight: 500;
+    font-size: medium;
+}
+
+.form-input{
+    display:flex;
+}
+.pre-written{
+    background-color: gainsboro;
+    color:grey;
+    padding:4px;
+    border-radius:5px;
+}

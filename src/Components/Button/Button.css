@@ -1,0 +1,13 @@
+.next-step-btn{
+    text-align:center;
+    padding-top:25px;
+}
+
+.btn{
+    background-color: rgb(87, 87, 228);
+    color:whitesmoke;
+    padding:10px 68px 10px 68px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+}

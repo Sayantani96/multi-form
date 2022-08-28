@@ -1,0 +1,36 @@
+.step-circle{
+  padding:0 20px;
+  position:relative;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin:25px 0;
+}
+
+.on-select{
+    height:30px;
+    width:30px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(87, 87, 228);
+    box-sizing: border-box;
+    position: relative;
+}
+.not-select{
+    height:30px;
+    width:30px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #40434A;
+    background-color: #F4F6F9;
+    box-sizing: border-box;
+}
+
+ 
