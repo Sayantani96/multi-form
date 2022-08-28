@@ -1,6 +1,6 @@
 
 
-import './ProgressBar.css'
+
 const Step = ({label,selected}) => {
    return(
     <div className="step-circle">

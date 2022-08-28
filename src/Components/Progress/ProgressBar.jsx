@@ -1,5 +1,6 @@
 import React,{useEffect} from 'react'
 import Step from './Step.jsx';
+import './ProgressBar.css'
 const ProgressBar = ({steps,pageNum}) => {
     useEffect(()=>{
         console.log(pageNum);
